@@ -97,7 +97,7 @@ select employee_id , full_name
 from Employee 
 limit 2 offset 2 ; 
 -- câu 11 
-
+-- vào phòng thi e quên hết r thầy ơi :((
 
 
 
